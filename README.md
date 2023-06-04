@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **HTML, CSS, ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sushant-rawat?tab=repositories](https://github.com/sushant-rawat?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sushant-rawat?tab=repositories)
 
 - 💬 Ask me about **SpringBoot, API's**
 
 - 📫 How to reach me **rawatsushant2308@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s9gh9tb2tWNUYFFMfyxibBawUGuiGMIf/view?usp=sharing](https://drive.google.com/file/d/1s9gh9tb2tWNUYFFMfyxibBawUGuiGMIf/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1s9gh9tb2tWNUYFFMfyxibBawUGuiGMIf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
