@@ -3,11 +3,11 @@
 
 <p>Hi, I'm Sushant Rawat, a Java developer with a focus on creating scalable and effective apps. Capable of working with HTML, CSS, and ReactJs, and well-versed in SpringBoot and API development. who has worked with cross-functional teams before to produce high-quality solutions. devoted to lifelong learning and staying current with market developments. Strong problem-solving abilities and a track record of executing projects successfully, on schedule, and under budget. Excellent communication abilities and the capacity for rapid environment change. I'm looking for new opportunities to use my knowledge and abilities to promote innovation and provide outstanding software solutions.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant-2308" alt="sushant-2308" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant-rawat" alt="sushant-rawat" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sushant-2308?tab=repositories](https://github.com/sushant-2308?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sushant-rawat?tab=repositories](https://github.com/sushant-rawat?tab=repositories)
 
 - 💬 Ask me about **SpringBoot, API's**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sushant-rawat" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sushant-rawat" height="30" width="40" /></a>
-<a href="https://github.com/sushant-2308" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/sushant-rawat" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sushant_2308" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="sushant_2308" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rawatsushant2308" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="rawatsushant2308" height="30" width="40" /></a>
 </p>
